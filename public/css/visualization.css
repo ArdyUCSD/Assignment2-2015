@@ -21,3 +21,11 @@
 .x.axis path {
   display: none;
 }
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #A9F5F2;
+}
